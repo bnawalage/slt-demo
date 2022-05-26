@@ -5,7 +5,9 @@ public class Test {
         System.out.println();
         System.out.println();
         System.out.println();
+        System.out.println("Bhaddhika");
         System.out.println();
         System.out.println("Gayan");
+        System.out.println("Bhaddhika");
     }
 }
