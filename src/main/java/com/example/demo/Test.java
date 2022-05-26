@@ -13,6 +13,10 @@ public class Test {
         System.out.println("Bhaddhika");
     }
 
+    public void test6(){
+        System.out.println("Bhaddhika");
+    }
+
     public void test1(){
         System.out.println("Gayan1");
         System.out.println("Gayan2");
