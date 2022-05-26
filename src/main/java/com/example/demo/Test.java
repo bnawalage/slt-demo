@@ -18,6 +18,11 @@ public class Test {
         System.out.println("Gayan2");
     }
 
+    public void test2(){
+        System.out.println("Bhaddhika");
+        System.out.println("Bhaddhika");
+    }
+
     public void test3(){
         System.out.println("Gayan1");
         System.out.println("Gayan2");
