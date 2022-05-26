@@ -12,4 +12,10 @@ public class Test {
         System.out.println("Gayan");
         System.out.println("Bhaddhika");
     }
+
+    public void test1(){
+        System.out.println("Gayan1");
+        System.out.println("Gayan2");
+    }
+
 }
